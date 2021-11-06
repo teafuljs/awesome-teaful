@@ -10,9 +10,10 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 - [Teaful](https://github.com/teafuljs/teaful/)
 
-### Blog posts
+### About Teaful
 
-- [Introducing Teaful](https://aralroca.com/blog/teaful) - Personal blog by Aral Roca
+- [Introducing Teaful](https://aralroca.com/blog/teaful) - Personal blog by Aral Roca _(5 nov. 2021)_
+- [How was Teaful born?](https://twitter.com/aralroca/status/1456976885204803587) - Tweet _(6 nov. 2021)_
 
 ### Utilities
 
