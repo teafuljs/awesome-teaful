@@ -9,12 +9,18 @@ If you want to contribute to this list (please do), send me a pull request or co
 ### Teaful packages
 
 - [Teaful](https://github.com/teafuljs/teaful/)
-
-### About Teaful
-
-- [Introducing Teaful](https://aralroca.com/blog/teaful) - Personal blog by Aral Roca _(5 nov. 2021)_
-- [How was Teaful born?](https://twitter.com/aralroca/status/1456976885204803587) - Tweet _(6 nov. 2021)_
+- [Teaful DevTools](https://github.com/teafuljs/teaful-devtools/)
 
 ### Utilities
 
 - [teaful-logger](https://github.com/siddharthborderwala/teaful-logger) - Logger utility for Teaful State Management library for react/preact
+
+
+### Articles
+
+- [Introducing Teaful](https://aralroca.com/blog/teaful) - Personal blog by Aral Roca _(5 nov. 2021)_
+- [Teaful DevTools Released!](https://dev.to/aralroca/teaful-devtools-released-37lp) - _(2 dec. 2021)_
+
+### Tweets
+
+- [How was Teaful born?](https://twitter.com/aralroca/status/1456976885204803587) - Tweet _(6 nov. 2021)_
