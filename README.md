@@ -20,7 +20,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 - [Introducing Teaful](https://aralroca.com/blog/teaful) - Personal blog by Aral Roca _(5 nov. 2021)_
 - [Teaful DevTools Released!](https://dev.to/aralroca/teaful-devtools-released-37lp) - _(2 dec. 2021)_
-- [How to add custom types to a javascript library](https://dev.to/danielart/how-to-add-custom-types-to-a-javascript-library-2dag) - by @danielart _(6 dec. 2021)_
+- [How to add custom types to a javascript library](https://dev.to/danielart/how-to-add-custom-types-to-a-javascript-library-2dag) - by [@danielart](https://github.com/danielart) _(6 dec. 2021)_
 
 ### Tweets
 
